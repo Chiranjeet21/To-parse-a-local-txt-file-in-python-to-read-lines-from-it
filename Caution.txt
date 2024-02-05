@@ -1,0 +1,2 @@
+##Caution##
+#Both the txt file and py file should be in the same directory or else txt file will not be located.
